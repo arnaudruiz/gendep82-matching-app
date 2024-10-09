@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/arnaudruiz/gendep82-matching-app/static/css/main.f855e6bc.css",
-    "main.js": "/arnaudruiz/gendep82-matching-app/static/js/main.9dbe898e.js",
+    "main.css": "/arnaudruiz/gendep82-matching-app/static/css/main.e6c13ad2.css",
+    "main.js": "/arnaudruiz/gendep82-matching-app/static/js/main.7e499e6b.js",
     "static/js/453.0201fb86.chunk.js": "/arnaudruiz/gendep82-matching-app/static/js/453.0201fb86.chunk.js",
-    "static/media/logo.svg": "/arnaudruiz/gendep82-matching-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/arnaudruiz/gendep82-matching-app/index.html",
-    "main.f855e6bc.css.map": "/arnaudruiz/gendep82-matching-app/static/css/main.f855e6bc.css.map",
-    "main.9dbe898e.js.map": "/arnaudruiz/gendep82-matching-app/static/js/main.9dbe898e.js.map",
+    "main.e6c13ad2.css.map": "/arnaudruiz/gendep82-matching-app/static/css/main.e6c13ad2.css.map",
+    "main.7e499e6b.js.map": "/arnaudruiz/gendep82-matching-app/static/js/main.7e499e6b.js.map",
     "453.0201fb86.chunk.js.map": "/arnaudruiz/gendep82-matching-app/static/js/453.0201fb86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.9dbe898e.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7e499e6b.js"
   ]
 }
